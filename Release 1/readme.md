@@ -5,7 +5,7 @@ Welcome to the repository for the **Save A Label Work For AWG** Streamlit applic
 
 ## Overview
 
-This project is designed to deliver a user-friendly interactive interface using Streamlit. The application demonstrates key functionalities and provides insights into [describe what the app does or its purpose]. It’s built with simplicity and usability in mind.
+This project is designed to deliver a user-friendly interactive interface using Streamlit. The application demonstrates key functionalities and provides insights into analysis. It’s built with simplicity and usability in mind.
 
 ## Features
 
