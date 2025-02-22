@@ -2,16 +2,6 @@
 
 Welcome to the repository for the **Jimmy Chen Work For AWG** Streamlit application. This app provides an interactive web experience powered by [Streamlit](https://streamlit.io/). Check out the live demo [here](https://jimmychenworkforawg.streamlit.app/).
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
