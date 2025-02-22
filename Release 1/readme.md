@@ -23,9 +23,11 @@ This project is designed to deliver a user-friendly interactive interface using 
 - **Real-Time Updates:** Enjoy dynamic content and instant updates.
 - **Customizable:** Adaptable components to fit various needs.
 
-## Installation
+![data_process](https://github.com/user-attachments/assets/03f0b9cf-0e7d-4745-b429-ed548880020f)
+![data_analysis](https://github.com/user-attachments/assets/0506f998-f9f3-4a71-baae-9d59462c7916)
+![data_machine_learning](https://github.com/user-attachments/assets/7def12d8-0c41-4be0-a22c-8bddb5314faa)
 
-To run this application locally, follow these steps:
+
 
 
 
