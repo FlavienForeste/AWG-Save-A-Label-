@@ -1,6 +1,6 @@
 # Save A Label For AWG
 
-Welcome to the repository for the **Jimmy Chen Work For AWG** Streamlit application. This app provides an interactive web experience powered by [Streamlit](https://streamlit.io/). Check out the live demo [here](https://jimmychenworkforawg.streamlit.app/).
+Welcome to the repository for the **Save A Label Work For AWG** Streamlit application. This app provides an interactive web experience powered by [Streamlit](https://streamlit.io/). Check out the live demo [here](https://jimmychenworkforawg.streamlit.app/).
 
 
 ## Overview
