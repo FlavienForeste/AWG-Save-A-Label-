@@ -23,9 +23,11 @@ This project is designed to deliver a user-friendly interactive interface using 
 - **Real-Time Updates:** Enjoy dynamic content and instant updates.
 - **Customizable:** Adaptable components to fit various needs.
 
-![data_process](https://github.com/user-attachments/assets/03f0b9cf-0e7d-4745-b429-ed548880020f)
-![data_analysis](https://github.com/user-attachments/assets/0506f998-f9f3-4a71-baae-9d59462c7916)
-![data_machine_learning](https://github.com/user-attachments/assets/7def12d8-0c41-4be0-a22c-8bddb5314faa)
+![data_intro](https://github.com/user-attachments/assets/deb8f979-c417-40bc-8267-0923902144f0)
+![data_table](https://github.com/user-attachments/assets/9e8f1636-a7be-4215-be51-ada00e34d0cc)
+![data_chart](https://github.com/user-attachments/assets/c939666e-95b4-4838-82cc-9f48b7d9a42c)
+![data_ml](https://github.com/user-attachments/assets/b80a4bb8-7c74-4214-adf2-7b0f37ef6e15)
+
 
 
 
