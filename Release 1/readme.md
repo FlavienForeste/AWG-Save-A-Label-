@@ -7,6 +7,11 @@ Welcome to the repository for the **Save A Label Work For AWG** Streamlit applic
 
 This project is designed to deliver a user-friendly interactive interface using Streamlit. The application demonstrates key functionalities and provides insights into analysis. It’s built with simplicity and usability in mind.
 
+There are three part of function.
+1. in the first page, users/client can simply upload their original data. Behind the page, it will apply python to process the data (including merge data, clean data, and apply classification function.
+2. in the second page, it will use cleaned data to process some data visualization (heat map, geo map, barchart)
+3. in the third page, it will apply machine learning (time-series analysis) to predict how many time a participatant will claim the money.
+
 ## Features
 
 - **Interactive Interface:** Easy-to-use UI powered by Streamlit.
