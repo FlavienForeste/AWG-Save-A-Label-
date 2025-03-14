@@ -37,16 +37,15 @@ Enhanced graphical representation for better insights.
 
 We will continue to refine performance and gather feedback for further improvements. If you experience any issues or have suggestions, please reach out!
 
+![Screenshot 2025-03-14 at 11 11 45 AM](https://github.com/user-attachments/assets/140bdb37-a669-4890-867e-b6983f8280e8)
 ![Screenshot 2025-03-14 at 10 23 08 AM](https://github.com/user-attachments/assets/312a5511-97cc-4788-9a74-299fb935c10a)
-![Screenshot 2025-03-14 at 10 22 53 AM](https://github.com/user-attachments/assets/c5d8aadd-c56d-449a-8f8b-73d2041698d2)
-![Screenshot 2025-03-14 at 10 20 55 AM](https://github.com/user-attachments/assets/7528cb34-6776-4c9e-83c3-bff693d2d96d)
-![Screenshot 2025-03-14 at 10 21 20 AM](https://github.com/user-attachments/assets/d074f025-d1ef-4739-8c91-dacd655492d4)
-![Screenshot 2025-03-14 at 10 21 42 AM](https://github.com/user-attachments/assets/9ce5d310-d6fa-4958-af2e-72378419e979)
-![Screenshot 2025-03-14 at 10 21 55 AM](https://github.com/user-attachments/assets/a509cce7-8e6f-4810-afa3-3dc63a94077d)
-![Screenshot 2025-03-14 at 10 22 09 AM](https://github.com/user-attachments/assets/97dd6f37-9e85-4121-bb93-072590c4caf2)
-![Screenshot 2025-03-14 at 10 22 25 AM](https://github.com/user-attachments/assets/1151f6e1-a78f-4d41-a222-acd348496d37)
-![Screenshot 2025-03-14 at 10 22 40 AM](https://github.com/user-attachments/assets/9a8fe8e6-b10a-4599-9573-54d06e5260fe)
-
+![Screenshot 2025-03-14 at 11 11 02 AM](https://github.com/user-attachments/assets/d975dade-44f6-4029-93c7-810d34928bf4)
+![Screenshot 2025-03-14 at 11 11 29 AM](https://github.com/user-attachments/assets/c5858a00-6f1e-4ecc-9d14-1b81d5b2e315)
+![Screenshot 2025-03-14 at 11 12 07 AM](https://github.com/user-attachments/assets/7d3ac033-39ed-4ffc-8c0d-1b7ebf2cc286)
+![Screenshot 2025-03-14 at 11 12 23 AM](https://github.com/user-attachments/assets/08c83088-9535-4543-af25-88a5a4383e4f)
+![Screenshot 2025-03-14 at 11 12 37 AM](https://github.com/user-attachments/assets/f1c3a7d4-eb19-4653-9f8e-1f7cb9e25d39)
+![Screenshot 2025-03-14 at 11 12 53 AM](https://github.com/user-attachments/assets/6161b036-3cc8-4820-8e34-bd1dd296a525)
+![Screenshot 2025-03-14 at 11 14 16 AM](https://github.com/user-attachments/assets/fa933fc6-54b5-4f7d-87c0-f50f6370ec72)
 
 
 
