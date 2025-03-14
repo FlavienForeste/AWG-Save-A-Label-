@@ -4,7 +4,6 @@
 
 This update enhances the user experience by introducing design improvements, optimizing the document upload process, and adding new charts for better data visualization.
 
-Key Updates
 
 ## Improved UI/UX Design
 
