@@ -4,6 +4,8 @@
 
 This update enhances the user experience by introducing design improvements, optimizing the document upload process, and adding new charts for better data visualization.
 
+## Transformation of the new 2024 Year Data
+AWG use the new format to save the information. By this, What we do is tranforming the format to old, than our code can run without problem.
 
 ## Improved UI/UX Design
 
